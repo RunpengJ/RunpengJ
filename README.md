@@ -23,7 +23,3 @@
 - Advanced RAG architectures
 - MLOps best practices
 - Serverless ML inference patterns
-
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/runpengjian/)
-- 📧 [Email](runpengj@gmail.com)
