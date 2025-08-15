@@ -18,7 +18,6 @@
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/runpengjian/)
 - 📧 [Email](runpengj@gmail.com)
-- 📄 Resume: [MLE Focus](public/ucsd_bsms_cs_Runpeng_Jian_mle_resume.pdf) | [SDE Focus](public/ucsd_bsms_cs_Runpeng_Jian_sde_resume.pdf)
 
 ## 🎯 Current Focus
 **Seeking:** ML Engineer & Software Engineer opportunities  
