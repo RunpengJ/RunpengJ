@@ -11,13 +11,9 @@
 **Cloud:** AWS (Bedrock, CDK, S3, CloudFront)  
 **Tools:** Git, Docker, CI/CD
 
-## 📊 GitHub Stats
-![Activity](https://github.pumbas.net/api/contributions/runpengj?colour=DF9149&bgColour=161B22&days=90)
+<!-- ## 📊 GitHub Stats
+![Activity](https://github.pumbas.net/api/contributions/runpengj?colour=DF9149&bgColour=161B22&days=90) -->
 
-
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/runpengjian/)
-- 📧 [Email](runpengj@gmail.com)
 
 ## 🎯 Current Focus
 **Seeking:** ML Engineer & Software Engineer opportunities  
@@ -27,3 +23,7 @@
 - Advanced RAG architectures
 - MLOps best practices
 - Serverless ML inference patterns
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/runpengjian/)
+- 📧 [Email](runpengj@gmail.com)
