@@ -1,7 +1,11 @@
 ## Hi there! 👋 I'm Runpeng.
 
-**Software Engineer | ML Engineer** building production AI systems with **FastAPI + AWS** 
+
+## About Me
+
+- **Software Engineer | ML Engineer** building production AI systems with **FastAPI + AWS** 
 *Specializing in RAG, NLP, and cost-efficient ML infrastructure*
+- I recharge with hiking, basketball, video games, and movies.
 
 ## 🛠 Tech Stack
 
